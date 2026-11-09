@@ -1,1 +1,2 @@
-# Stepik_auto_tests_course
+# Stepik\_auto\_tests\_course репозиторий для курса Автоматизированное тестирование по
+
